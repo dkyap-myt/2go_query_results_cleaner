@@ -6,8 +6,11 @@ Run
 
 Optional Params
  - filename
+
 ```node 2go a_file.txt```
 
 Note and Instructions
+
 Put your text to be cleaned in the to_clean.txt
+
 Default file for output is output.csv

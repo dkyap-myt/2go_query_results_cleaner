@@ -11,7 +11,7 @@ Purpose: Make 2go query results more readable
 ```node 2go```
 
 # Optional Params
- - filename
+ - Output filename
 
 Example: 
 

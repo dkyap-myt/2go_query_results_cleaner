@@ -1,16 +1,20 @@
 # 2go_query_results_cleaner
-Make 2go query results more readable
+Purpose: Make 2go query results more readable
 
-Run
+# Note and Instructions
+
+- Put your text to be cleaned in the to_clean.txt
+
+- Default file for output is output.csv
+
+# Run
 ```node 2go```
 
-Optional Params
+# Optional Params
  - filename
+
+Example: 
 
 ```node 2go a_file.txt```
 
-Note and Instructions
 
-Put your text to be cleaned in the to_clean.txt
-
-Default file for output is output.csv
